@@ -1,2 +1,2 @@
-# WebProject
-WebProject Description
+# MediMart
+Pharmacy management system
